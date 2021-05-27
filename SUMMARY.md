@@ -6,6 +6,7 @@
 
 * [架构是什么](architectrue/chapter1.md)
 * [工程师的职责](architectrue/gong-cheng-shi-de-zhi-ze.md)
+* [架构组织](architectrue/jia-gou-zu-zhi.md)
 
 ## 组件化 <a id="component"></a>
 
@@ -17,6 +18,7 @@
     * [组件结构](component/zu-jian-hua/gong-cheng-jie-gou/zu-jian-jie-gou.md)
     * [目录结构](component/zu-jian-hua/gong-cheng-jie-gou/mu-lu-jie-gou.md)
     * [组件定义](component/zu-jian-hua/gong-cheng-jie-gou/zu-jian-ding-yi.md)
+    * [壳工程](component/zu-jian-hua/gong-cheng-jie-gou/shell-project.md)
 
 ## 模块化 <a id="modular"></a>
 
@@ -25,6 +27,7 @@
 ## 研发体系 <a id="development-system"></a>
 
 * [基于组件构建研发流程](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/README.md)
+  * [孤立开发](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/gu-li-kai-fa.md)
   * [工具支撑](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/gong-ju-zhi-cheng.md)
   * [本地研发流程](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/ben-di-yan-fa-liu-cheng.md)
   * [远端研发流程](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/yuan-duan-yan-fa-liu-cheng.md)
@@ -32,5 +35,6 @@
 
 ## 防劣化 <a id="anti-deterioration"></a>
 
-* [工程防劣化](anti-deterioration/gong-cheng-fang-lie-hua.md)
+* [工程防劣化](anti-deterioration/gong-cheng-fang-lie-hua/README.md)
+  * [组件治理](anti-deterioration/gong-cheng-fang-lie-hua/zu-jian-zhi-li.md)
 
