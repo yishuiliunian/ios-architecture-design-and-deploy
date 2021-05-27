@@ -30,7 +30,7 @@
   * [远端研发流程](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/yuan-duan-yan-fa-liu-cheng.md)
   * [CI/CD 或者 DevOps](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/cicd-huo-zhe-devops.md)
 
-## 防劣化
+## 防劣化 <a id="anti-deterioration"></a>
 
-* [工程防劣化](fang-lie-hua/gong-cheng-fang-lie-hua.md)
+* [工程防劣化](anti-deterioration/gong-cheng-fang-lie-hua.md)
 
