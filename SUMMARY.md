@@ -12,21 +12,22 @@
 
 * [组件化](component/zu-jian-hua/README.md)
   * [工程结构](component/zu-jian-hua/gong-cheng-jie-gou/README.md)
-    * [资源管理](component/zu-jian-hua/gong-cheng-jie-gou/resources-manager.md)
+    * [组件定义](component/zu-jian-hua/gong-cheng-jie-gou/zu-jian-ding-yi.md)
+    * [组件结构](component/zu-jian-hua/gong-cheng-jie-gou/zu-jian-jie-gou.md)
     * [横向正交](component/zu-jian-hua/gong-cheng-jie-gou/horizontal-split.md)
     * [纵向分层](component/zu-jian-hua/gong-cheng-jie-gou/vertical-split-level.md)
-    * [组件结构](component/zu-jian-hua/gong-cheng-jie-gou/zu-jian-jie-gou.md)
     * [目录结构](component/zu-jian-hua/gong-cheng-jie-gou/mu-lu-jie-gou.md)
-    * [组件定义](component/zu-jian-hua/gong-cheng-jie-gou/zu-jian-ding-yi.md)
+    * [资源管理](component/zu-jian-hua/gong-cheng-jie-gou/resources-manager.md)
     * [壳工程](component/zu-jian-hua/gong-cheng-jie-gou/shell-project.md)
 
 ## 模块化及业务结构 <a id="modular"></a>
 
 * [模块化](modular/modular-process/README.md)
-  * [模块间通信](modular/modular-process/module-connection.md)
-  * [RFC 1738](modular/modular-process/rfc-1738.md)
+  * [模块间通信](modular/modular-process/module-connection/README.md)
+    * [RFC 1738](modular/modular-process/module-connection/rfc-1738.md)
 * [微内核架构](modular/micro-kernel/README.md)
   * [DI](modular/micro-kernel/di.md)
+* [插件化](modular/plugin.md)
 
 ## 页面架构
 
