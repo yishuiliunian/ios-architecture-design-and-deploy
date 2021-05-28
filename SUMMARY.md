@@ -8,7 +8,7 @@
 * [工程师的职责](architectrue/gong-cheng-shi-de-zhi-ze.md)
 * [架构组织](architectrue/jia-gou-zu-zhi.md)
 
-## 组件化 <a id="component"></a>
+## 组件化及工程结构 <a id="component"></a>
 
 * [组件化](component/zu-jian-hua/README.md)
   * [工程结构](component/zu-jian-hua/gong-cheng-jie-gou/README.md)
@@ -20,13 +20,17 @@
     * [组件定义](component/zu-jian-hua/gong-cheng-jie-gou/zu-jian-ding-yi.md)
     * [壳工程](component/zu-jian-hua/gong-cheng-jie-gou/shell-project.md)
 
-## 模块化 <a id="modular"></a>
+## 模块化及业务结构 <a id="modular"></a>
 
-* [模块化](modular/modular-process.md)
-* [模块间通信](modular/module-connection.md)
+* [模块化](modular/modular-process/README.md)
+  * [模块间通信](modular/modular-process/module-connection.md)
+  * [RFC 1738](modular/modular-process/rfc-1738.md)
+* [微内核架构](modular/micro-kernel/README.md)
+  * [DI](modular/micro-kernel/di.md)
 
 ## 页面架构
 
+* [页面架构](ye-mian-jia-gou/page-structure.md)
 * [MVC](ye-mian-jia-gou/mvc.md)
 * [MVP](ye-mian-jia-gou/mvp.md)
 * [MVVM](ye-mian-jia-gou/mvvm.md)
