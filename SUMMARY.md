@@ -22,7 +22,14 @@
 
 ## 模块化 <a id="modular"></a>
 
-* [模块化](modular/mo-kuai-hua.md)
+* [模块化](modular/modular-process.md)
+* [模块间通信](modular/module-connection.md)
+
+## 页面架构
+
+* [MVC](ye-mian-jia-gou/mvc.md)
+* [MVP](ye-mian-jia-gou/mvp.md)
+* [MVVM](ye-mian-jia-gou/mvvm.md)
 
 ## 研发体系 <a id="development-system"></a>
 
@@ -32,6 +39,7 @@
   * [本地研发流程](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/ben-di-yan-fa-liu-cheng.md)
   * [远端研发流程](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/yuan-duan-yan-fa-liu-cheng.md)
   * [CI/CD 或者 DevOps](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/cicd-huo-zhe-devops.md)
+* [复杂性可视化](development-system/complexy-vision.md)
 
 ## 防劣化 <a id="anti-deterioration"></a>
 
