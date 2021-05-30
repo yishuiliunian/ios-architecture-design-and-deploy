@@ -19,6 +19,13 @@
     * [目录结构](component/zu-jian-hua/gong-cheng-jie-gou/mu-lu-jie-gou.md)
     * [资源管理](component/zu-jian-hua/gong-cheng-jie-gou/resources-manager.md)
     * [壳工程](component/zu-jian-hua/gong-cheng-jie-gou/shell-project.md)
+  * [基于组件构建研发流程](component/zu-jian-hua/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/README.md)
+    * [组件治理](component/zu-jian-hua/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/zu-jian-zhi-li.md)
+    * [孤立开发](component/zu-jian-hua/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/gu-li-kai-fa.md)
+    * [工具支撑](component/zu-jian-hua/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/gong-ju-zhi-cheng.md)
+    * [本地研发流程](component/zu-jian-hua/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/ben-di-yan-fa-liu-cheng.md)
+    * [远端研发流程](component/zu-jian-hua/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/yuan-duan-yan-fa-liu-cheng/README.md)
+      * [CI/CD 或者 DevOps](component/zu-jian-hua/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/yuan-duan-yan-fa-liu-cheng/cicd-huo-zhe-devops.md)
 
 ## 模块化及业务结构 <a id="modular"></a>
 
@@ -38,12 +45,6 @@
 
 ## 研发体系 <a id="development-system"></a>
 
-* [基于组件构建研发流程](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/README.md)
-  * [孤立开发](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/gu-li-kai-fa.md)
-  * [工具支撑](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/gong-ju-zhi-cheng.md)
-  * [本地研发流程](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/ben-di-yan-fa-liu-cheng.md)
-  * [远端研发流程](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/yuan-duan-yan-fa-liu-cheng.md)
-  * [CI/CD 或者 DevOps](development-system/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/cicd-huo-zhe-devops.md)
 * [复杂性可视化](development-system/complexy-vision.md)
 
 ## 防劣化 <a id="anti-deterioration"></a>
