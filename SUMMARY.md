@@ -46,6 +46,7 @@
 ## 研发体系 <a id="development-system"></a>
 
 * [复杂性可视化](development-system/complexy-vision.md)
+* [工具与平台](development-system/gong-ju-yu-ping-tai.md)
 
 ## 防劣化 <a id="anti-deterioration"></a>
 
