@@ -19,6 +19,7 @@
     * [目录结构](component/zu-jian-hua/gong-cheng-jie-gou/mu-lu-jie-gou.md)
     * [资源管理](component/zu-jian-hua/gong-cheng-jie-gou/resources-manager.md)
     * [壳工程](component/zu-jian-hua/gong-cheng-jie-gou/shell-project.md)
+    * [拓扑结构](component/zu-jian-hua/gong-cheng-jie-gou/tuo-pu-jie-gou.md)
   * [基于组件构建研发流程](component/zu-jian-hua/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/README.md)
     * [组件治理](component/zu-jian-hua/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/zu-jian-zhi-li.md)
     * [孤立开发](component/zu-jian-hua/ji-yu-zu-jian-gou-jian-yan-fa-liu-cheng/gu-li-kai-fa.md)
