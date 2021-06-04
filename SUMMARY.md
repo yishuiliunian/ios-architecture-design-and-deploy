@@ -7,6 +7,7 @@
 * [架构是什么](architectrue/chapter1.md)
 * [工程师的职责](architectrue/gong-cheng-shi-de-zhi-ze.md)
 * [架构组织](architectrue/jia-gou-zu-zhi.md)
+* [架构核心焦点](architectrue/jia-gou-he-xin-jiao-dian.md)
 
 ## 组件化及工程结构 <a id="component"></a>
 
