@@ -37,6 +37,8 @@
 * [微内核架构](modular/micro-kernel/README.md)
   * [DI](modular/micro-kernel/di.md)
 * [插件化](modular/plugin.md)
+* [启动时间治理](modular/qi-dong-shi-jian-zhi-li.md)
+* [线程治理](modular/xian-cheng-zhi-li.md)
 
 ## 页面架构
 
