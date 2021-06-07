@@ -51,6 +51,7 @@
 
 * [复杂性可视化](development-system/complexy-vision.md)
 * [工具与平台](development-system/gong-ju-yu-ping-tai.md)
+* [治理](development-system/zhi-li.md)
 
 ## 防劣化 <a id="anti-deterioration"></a>
 
