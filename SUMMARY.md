@@ -50,13 +50,12 @@
 * [复杂性可视化](development-system/complexy-vision.md)
 * [工具与平台](development-system/gong-ju-yu-ping-tai.md)
 * [治理](development-system/zhi-li/README.md)
+  * [工程防劣化](development-system/zhi-li/gong-cheng-fang-lie-hua/README.md)
+    * [组件治理](development-system/zhi-li/gong-cheng-fang-lie-hua/zu-jian-zhi-li.md)
   * [线程治理](development-system/zhi-li/xian-cheng-zhi-li.md)
   * [启动时间治理](development-system/zhi-li/qi-dong-shi-jian-zhi-li.md)
   * [包体积治理](development-system/zhi-li/bao-ti-ji-zhi-li.md)
   * [稳定性治理](development-system/zhi-li/wen-ding-xing-zhi-li.md)
 
 ## 防劣化 <a id="anti-deterioration"></a>
-
-* [工程防劣化](anti-deterioration/gong-cheng-fang-lie-hua/README.md)
-  * [组件治理](anti-deterioration/gong-cheng-fang-lie-hua/zu-jian-zhi-li.md)
 
