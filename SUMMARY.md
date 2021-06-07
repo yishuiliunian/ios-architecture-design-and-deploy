@@ -49,7 +49,7 @@
 
 * [复杂性可视化](development-system/complexy-vision.md)
 * [工具与平台](development-system/gong-ju-yu-ping-tai.md)
-* [治理](development-system/zhi-li/README.md)
+* [治理与工程防劣化](development-system/zhi-li/README.md)
   * [工程防劣化](development-system/zhi-li/gong-cheng-fang-lie-hua/README.md)
     * [组件治理](development-system/zhi-li/gong-cheng-fang-lie-hua/zu-jian-zhi-li.md)
   * [线程治理](development-system/zhi-li/xian-cheng-zhi-li.md)
