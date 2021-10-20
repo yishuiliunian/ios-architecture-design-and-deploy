@@ -28,8 +28,8 @@
 ## 模块化及业务结构 <a href="modular" id="modular"></a>
 
 * [模块化](modular/modularized/README.md)
-  * [模块间通信](modular/modularized/module-connection/README.md)
-    * [RFC 1738](modular/modularized/module-connection/rfc-1738.md)
+  * [模块间通信](modular/modular-process/module-connection/README.md)
+    * [RFC 1738](modular/modular-process/module-connection/rfc-1738.md)
 * [微内核架构](modular/micro-kernel/README.md)
   * [DI](modular/micro-kernel/di.md)
 * [插件化](modular/plugin.md)
