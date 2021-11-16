@@ -12,7 +12,7 @@
 ## 组件化及工程结构 <a href="componentized-and-structure" id="componentized-and-structure"></a>
 
 * [组件化](componentized-and-structure/componentized/README.md)
-  * [组件结构](componentized-and-structure/componentized/the-structure-of-component/README.md)
+  * [组件结构](componentized-and-structure/componentized/the-structure-of-component.md)
     * [目录结构](componentized-and-structure/componentized/the-structure-of-component/directory.md)
   * [工程结构](componentized-and-structure/componentized/gong-cheng-jie-gou/README.md)
     * [壳工程](componentized-and-structure/componentized/gong-cheng-jie-gou/shell-project.md)
