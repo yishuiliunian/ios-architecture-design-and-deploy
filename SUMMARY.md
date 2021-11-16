@@ -12,11 +12,12 @@
 ## 组件化及工程结构 <a href="componentized-and-structure" id="componentized-and-structure"></a>
 
 * [组件化](componentized-and-structure/componentized/README.md)
-  * [组件结构](componentized-and-structure/componentized/the-structure-of-component.md)
+  * [组件结构](componentized-and-structure/componentized/the-structure-of-component/README.md)
+    * [目录结构](componentized-and-structure/componentized/the-structure-of-component/directory.md)
   * [工程结构](componentized-and-structure/componentized/gong-cheng-jie-gou/README.md)
     * [壳工程](componentized-and-structure/componentized/gong-cheng-jie-gou/shell-project.md)
     * [拓扑结构](componentized-and-structure/componentized/gong-cheng-jie-gou/tuo-pu-jie-gou.md)
-* [基于组件构建研发流程](componentized-and-structure/pipeline-based-component/README.md)
+* [基于组件构建研发体系](componentized-and-structure/pipeline-based-component/README.md)
   * [资源管理](componentized-and-structure/pipeline-based-component/resources-manager.md)
   * [组件治理](componentized-and-structure/pipeline-based-component/zu-jian-zhi-li.md)
   * [孤立开发](componentized-and-structure/pipeline-based-component/gu-li-kai-fa.md)
