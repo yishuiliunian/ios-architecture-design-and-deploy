@@ -47,6 +47,3 @@
 ## 页面架构
 
 * [页面架构](ye-mian-jia-gou/page-structure.md)
-* [MVC](ye-mian-jia-gou/mvc.md)
-* [MVP](ye-mian-jia-gou/mvp.md)
-* [MVVM](ye-mian-jia-gou/mvvm.md)
