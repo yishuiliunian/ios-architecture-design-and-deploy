@@ -33,6 +33,13 @@
     * [包体积治理](componentized-and-structure/pipeline-based-component/zhi-li/bao-ti-ji-zhi-li.md)
     * [稳定性治理](componentized-and-structure/pipeline-based-component/zhi-li/wen-ding-xing-zhi-li.md)
     * [工程防劣化](componentized-and-structure/pipeline-based-component/zhi-li/gong-cheng-fang-lie-hua.md)
+* [仓库与构建](componentized-and-structure/cang-ku-yu-gou-jian/README.md)
+  * [Monorepo vs Multirepo](componentized-and-structure/cang-ku-yu-gou-jian/monorepo-vs-multirepo.md)
+  * [分支模型](componentized-and-structure/cang-ku-yu-gou-jian/fen-zhi-mo-xing.md)
+  * [构建系统](componentized-and-structure/cang-ku-yu-gou-jian/gou-jian-xi-tong/README.md)
+    * [编译速度优化](componentized-and-structure/cang-ku-yu-gou-jian/gou-jian-xi-tong/bian-yi-su-du-you-hua.md)
+    * [Bazel](componentized-and-structure/cang-ku-yu-gou-jian/gou-jian-xi-tong/bazel.md)
+  * [Page](componentized-and-structure/cang-ku-yu-gou-jian/page.md)
 
 ## 模块化及业务结构 <a href="#modular" id="modular"></a>
 
